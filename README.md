@@ -1,1 +1,1 @@
-# devsync-daily-automation
+[![Daily Repository Update](https://github.com/namanmkdhingra2019-gif/devsync-daily-automation/actions/workflows/daily-update.yml/badge.svg)](https://github.com/namanmkdhingra2019-gif/devsync-daily-automation/actions/workflows/daily-update.yml)# devsync-daily-automation
